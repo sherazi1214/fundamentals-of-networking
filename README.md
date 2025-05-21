@@ -12,5 +12,6 @@ we learn all concept of networking one bye one
 - ** [Network Devicesk](https://github.com/sherazi1214/Network-Devices/blob/main/README.md):** We learn about Network Devices  .
 - ** [OSI Model](https://github.com/sherazi1214/OSI-Model/blob/main/README.md):** We learn about OSI Model  .
 - ** [TCP/IP Model](https://github.com/sherazi1214/TCP-IP-Model/blob/main/README.md):** We learn TCP/IP Model.
-- ** [IP Addressing and Subnetting](https://github.com/sherazi1214/TCP-IP-Model/blob/main/README.md):** We learn about IP Addressing and Subnetting.
+- ** [IP Addressing and Subnetting](https://github.com/sherazi1214/IP-Addressing-and-Subnetting/blob/main/README.md):** We learn about IP Addressing and Subnetting.
+-  ** [DNS Domain Name System)](https://github.com/sherazi1214/TCP-IP-Model/blob/main/README.md):** We learn about DNS (Domain Name System).
 
