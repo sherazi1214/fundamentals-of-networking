@@ -8,4 +8,5 @@ In the digital world, nothing operates in isolation. Devices — such as compute
 we learn all concept of networking one bye one 
 
 - ** [Network Topologies](https://github.com/sherazi1214/Network-Topologies/blob/main/README.md):** We learn all Network Topologies .
--  ** [Types of Network]():** We learn all types Network  . 
+-  ** [Types of Network](https://github.com/sherazi1214/Types-of-Network/blob/main/README.md):** We learn all types of  Networking  .
+-  ** [Network Devicesk]():** We learn about Network Devices  .
