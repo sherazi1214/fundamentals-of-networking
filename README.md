@@ -10,4 +10,5 @@ we learn all concept of networking one bye one
 - ** [Network Topologies](https://github.com/sherazi1214/Network-Topologies/blob/main/README.md):** We learn all Network Topologies .
 -  ** [Types of Network](https://github.com/sherazi1214/Types-of-Network/blob/main/README.md):** We learn all types of  Networking  .
 -  ** [Network Devicesk](https://github.com/sherazi1214/Network-Devices/blob/main/README.md):** We learn about Network Devices  .
--  ** [OSI Model]():** We learn about OSI Model  .
+-  ** [OSI Model](https://github.com/sherazi1214/OSI-Model/blob/main/README.md):** We learn about OSI Model  .
+-   ** [TCP/IP Model](https://github.com/sherazi1214/OSI-Model/blob/main/README.md):** We learn TCP/IP Model.
