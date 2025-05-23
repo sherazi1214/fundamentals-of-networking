@@ -14,7 +14,7 @@ we learn all concept of networking one bye one
 - ** [TCP/IP Model](https://github.com/sherazi1214/TCP-IP-Model/blob/main/README.md):** We learn TCP/IP Model.
 - ** [IP Addressing and Subnetting](https://github.com/sherazi1214/IP-Addressing-and-Subnetting/blob/main/README.md):** We learn about IP Addressing and Subnetting.
 -  ** [DNS Domain Name System)](https://github.com/sherazi1214/DNS-Domain-Name-System-/blob/main/README.md):** We learn about DNS (Domain Name System).
-- ** [MAC Address and ARP](https://github.com/sherazi1214/MAC-Address-and-ARP-Address-Resolution-Protocol-/blob/main/README.md):** We learn about MAC Address and ARP (Address Resolution Protocol)  .
+- ** [MAC Address and ARP]():** We learn about MAC Address and ARP (Address Resolution Protocol)  .
 
 - ** [Routing and Switching](https://github.com/sherazi1214/Routing-and-Switching/blob/main/README.md):** We learn about Routing and Switching.
-- ** [Wired vs. Wireless Networks](https://github.com/sherazi1214/Routing-and-Switching/blob/main/README.md):** We learn about Wired vs. Wireless Networks.
+- ** [Wired vs. Wireless Networks](https://github.com/sherazi1214/Wired-vs.-Wireless-Networks/blob/main/README.md):** We learn about Wired vs. Wireless Networks.
