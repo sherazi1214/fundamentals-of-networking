@@ -21,4 +21,5 @@ we learn all concept of networking one bye one
 - **[Network Protocols (HTTP, FTP, SMTP, etc.)](https://github.com/sherazi1214/Network-Protocols-HTTP-FTP-SMTP-etc.-/blob/main/README.md):** We learn about Network Protocols (HTTP, FTP, SMTP, etc.)
 - **[Firewalls and Network Security](https://github.com/sherazi1214/Firewalls-and-Network-Security/blob/main/README.md):** We learn about Firewalls and Network Security
 - **[Network Ports and Services](https://github.com/sherazi1214/Network-Ports-and-Services/tree/main):** We learn about Network Ports and Services.
-- **[ NAT (Network Address Translation)]():** We learn about  NAT (Network Address Translation).
+- **[ NAT (Network Address Translation)](https://github.com/sherazi1214/NAT-Network-Address-Translation-/blob/main/README.md):** We learn about  NAT (Network Address Translation).
+- **[DHCP]():** We learn about DHCP .
