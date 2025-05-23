@@ -24,4 +24,5 @@ we learn all concept of networking one bye one
 - **[ NAT (Network Address Translation)](https://github.com/sherazi1214/NAT-Network-Address-Translation-/blob/main/README.md):** We learn about  NAT (Network Address Translation).
 - **[DHCP](https://github.com/sherazi1214/DHCP/blob/main/README.md):** We learn about DHCP .
 - **[VPN](https://github.com/sherazi1214/VPN/blob/main/README.md):** We learn about VPN .
--  **[Bandwidth and Latency]():** We learn about Bandwidth and Latency .
+-  **[Bandwidth and Latency](https://github.com/sherazi1214/Bandwidth-and-Latency/blob/main/README.md):** We learn about Bandwidth and Latency .
+-   **[Common Network Tools]():** We learn about Common Network Tools .
