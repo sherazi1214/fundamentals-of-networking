@@ -24,5 +24,18 @@ we learn all concept of networking one bye one
 - **[ NAT (Network Address Translation)](https://github.com/sherazi1214/NAT-Network-Address-Translation-/blob/main/README.md):** We learn about  NAT (Network Address Translation).
 - **[DHCP](https://github.com/sherazi1214/DHCP/blob/main/README.md):** We learn about DHCP .
 - **[VPN](https://github.com/sherazi1214/VPN/blob/main/README.md):** We learn about VPN .
--  **[Bandwidth and Latency](https://github.com/sherazi1214/Bandwidth-and-Latency/blob/main/README.md):** We learn about Bandwidth and Latency .
--   **[Common Network Tools]():** We learn about Common Network Tools .
+- **[Bandwidth and Latency](https://github.com/sherazi1214/Bandwidth-and-Latency/blob/main/README.md):** We learn about Bandwidth and Latency .
+- **[Common Network Tools](https://github.com/sherazi1214/Common-Network-Tools/blob/main/README.md):** We learn about Common Network Tools .
+
+# You must complate  to this task
+- **[TryhackMe](https://tryhackme.com/room/whatisnetworking):** What is Networking.
+- **[TryhackMe](https://tryhackme.com/room/networkservices):** Network Services 1.
+- **[TryhackMe](https://tryhackme.com/room/networkservices2):** Network Services 2.
+- **[TryhackMe](https://tryhackme.com/room/httpindetail):** HTTP in Detail.
+-  **[TryhackMe](https://tryhackme.com/room/dnsindetail):** DNS in Detail.
+
+
+
+
+
+
