@@ -19,4 +19,5 @@ we learn all concept of networking one bye one
 - **[Routing and Switching](https://github.com/sherazi1214/Routing-and-Switching/blob/main/README.md):** We learn about Routing and Switching.
 - **[Wired vs. Wireless Networks](https://github.com/sherazi1214/Wired-vs.-Wireless-Networks/blob/main/README.md):** We learn about Wired vs. Wireless Networks.
 - **[Network Protocols (HTTP, FTP, SMTP, etc.)](https://github.com/sherazi1214/Network-Protocols-HTTP-FTP-SMTP-etc.-/blob/main/README.md):** We learn about Network Protocols (HTTP, FTP, SMTP, etc.)
-- **[Firewalls and Network Security](https://github.com/sherazi1214/OSI-Model/blob/main/README.md):** We learn about Firewalls and Network Security  
+- **[Firewalls and Network Security](https://github.com/sherazi1214/Firewalls-and-Network-Security/blob/main/README.md):** We learn about Firewalls and Network Security
+-  **[Network Ports and Services](https://github.com/sherazi1214/Routing-and-Switching/blob/main/README.md):** We learn about Network Ports and Services.  
